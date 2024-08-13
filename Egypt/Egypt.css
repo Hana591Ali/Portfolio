@@ -1,0 +1,42 @@
+nav ul{
+    background-color: burlywood;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 20px;
+    border-width: 2px;
+}
+nav ul li{
+    
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: beige;
+}
+nav ul li a{
+    text-decoration: none;
+    color: brown;
+}
+a{
+    color: cadetblue;
+    text-decoration: none;
+
+}
+body{
+    background-color: rgb(255, 249, 243);
+}
+.Sec{
+    background-color: burlywood;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 5px;
+    border-radius: 20px;
+}
+.C1{
+    background-color: rgb(219, 209, 199);
+    padding:10px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+img{
+    border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+
+.Heading1{
+    color: black;
+    padding-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Heading2{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLicet67-eTEohKPRvRgAOS7jxheHOxE2sA&s);
+    background-size: cover;
+}
